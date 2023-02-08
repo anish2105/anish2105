@@ -6,7 +6,7 @@ Interested in Machine Learning and Deep Learning, will be happy to collaborate f
 
 
 ## 🛠 Languages
-1. Python
+1. PYTHON
 2. MYSQL
 3. HTML
 4. CSS
