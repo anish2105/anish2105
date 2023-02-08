@@ -2,7 +2,7 @@
 ## Hi, I'm Anish
 I'm a Full Stack Data Scientist,
 yet to learn alot.
-Interested in Machine Learning and Deep Learning, will be happy to collaborate for projects on above topics. 
+Interested in Machine Learning and Deep Learning, will be happy to collaborate for projects on these topics. 
 
 
 ## 🛠 Languages
@@ -21,7 +21,7 @@ Interested in Machine Learning and Deep Learning, will be happy to collaborate f
 4. KERAS
 5. SCIKIT - LEARN
 6. DJANGO
-7. FLASH
+7. FLASK
 8. STREAMLIT
 
 
