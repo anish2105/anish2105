@@ -23,6 +23,9 @@ Interested in Machine Learning and Deep Learning, will be happy to collaborate f
 6. DJANGO
 7. FLASK
 8. STREAMLIT
+9. HUGGING FACE
+10. Transformers
+11. Large Language Models(llms)
 
 
 
