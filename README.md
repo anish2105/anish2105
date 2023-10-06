@@ -14,7 +14,7 @@
 
 <img align='right' alt='coding' width='400' src='https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif'>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** and **DSA**
 
 - 💬 Ask me about **Machine Learning , Computer Vision , Deep Learning , LLM's ....**
 
