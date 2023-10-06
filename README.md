@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Data Science** and **DSA**
 
-- 💬 Ask me about **Machine Learning , Computer Vision , Deep Learning , LLM's ....**
+- 💬 Ask me about **Machine Learning , Computer Vision , Deep Learning , LLM's**
 
 - 📫 Reach me at **anishvv0000@gmail.com**
 
