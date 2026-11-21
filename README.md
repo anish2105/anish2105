@@ -13,7 +13,7 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-anish2105-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish2105)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Vantagodi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish2105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Vantagodi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anishvvantagodi)
 [![Email](https://img.shields.io/badge/Email-anishvv0000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishvv0000@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/anish2105)
 
@@ -163,10 +163,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish2105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anishvvantagodi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish2105)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishvv0000@gmail.com)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anish2105)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anishvv0000)
 
 <p><em>Always open to discussing high-throughput AI backends, agentic architectures, research collaborations, and production engineering challenges!</em></p>
 
